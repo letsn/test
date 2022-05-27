@@ -1,0 +1,6 @@
+### IDEA ###
+.mvn/*
+.idea/*
+*.iml
+*/target/*
+*/*.iml
